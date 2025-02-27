@@ -158,6 +158,3 @@ Project boards organize tasks visually using Kanban-style workflows.
 - Regularly update and sync the repository.
 ```
 
-GitHub and version control are essential for managing projects efficiently, enabling teamwork, and ensuring the integrity of your codebase.
-```
-
